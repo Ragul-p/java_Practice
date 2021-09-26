@@ -1,0 +1,21 @@
+1.Define class:-      --->First load class --->static-class specific behaviour,values
+
+  -->class is a template
+  -->class is a blue print
+  -->used to create objects and to define object data types and methods.
+
+class contain:
+      1.data  2.methods(action)  3.objects
+	  
+2.Define Object:-     --->Second load Object --->non-static/object specific /instance specific
+    -->Objects have states and behaviors
+    -->representation of class
+    -->memory referance of class
+    -->combination of data and action
+
+    -->state(fiels)=represents the data (value) of an object.
+    -->behaviors(method)= represents the behavior (functionality) of an object such as deposit, withdraw, etc.
+	
+	
+3.Define method:-
+    -->set of instruction
