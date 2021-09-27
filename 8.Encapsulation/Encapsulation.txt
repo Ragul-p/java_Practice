@@ -1,0 +1,25 @@
+Encapsulation
+     encapsulation - data protection
+	 Define:1.wrapping up of data under a single unit
+	        2.combination of data-hiding and abstraction
+	        Eg: A capsule which is mixed of several medicines.
+	 
+
+
+access modifier      or      access specifier
+1.public                     1.public
+2.default                    2.default
+3.protected                  3.protected
+4.private                    4.private
+                             5.static
+							 6.final
+							 7.abstract
+							 
+							 
+1.public:-
+   widest scope- accessible from everywhere
+
+2.Private:-
+       accessible only within the class 
+       Any other class of the same package will not be able to access
+
