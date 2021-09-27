@@ -1,0 +1,42 @@
+PRIMITIVE DATA TYPES:-
+   Define: 1.predefined by the Java language and named as the reserved keywords
+           2.Java is a statically-typed language. This means that all variables must be declared before they can be used
+           3.Fixed memory size
+	
+
+		
+8-primitive data types:-
+      Integer---------->byte ,short ,int ,long
+      Floating point--->float ,double
+      Character ------->char
+      Boolean---------->boolean
+
+
+
+ DataType...DefaultValue... DefaultSize
+  1.byte----->0-------->1 byte
+  2.short---->0-------->2 byte
+  3.int------>0-------->4 byte
+  4.long----->0L------->8 byte
+  5.float---->0.0f----->4 byte
+  6.double--->0.0d----->8 byte
+  7.char----->'\u0000'->2 byte  
+  8.boolean-->false---->1 bit
+ 
+
+
+
+
+Referance/Identifiers(variables):-
+      i.Identifiers are used for identification purposes.
+      ii.class name, variable name, method name, package name, constant name.
+     
+     Eg:int age=10;
+        age -->Referance/Identifier
+	 
+	 
+	 
+	 
+
+	
+ 
