@@ -1,0 +1,164 @@
+Access Modifiers
+      To set access levels for classes, variables, methods, and constructors
+
+Four Types:-
+   1.Default   -No keyword required
+   2.Private   
+   3.Protected 
+   4.Public    
+
+                            default  private   protected    public
+
+sameClass------------>        yes     yes         yes         Yes
+
+same package
+subClass------------->        yes      no          yes        yes
+
+same package
+non-subClass--------->        yes      no          yes       yes
+  
+Different package
+subClass------------->        no       no          yes       yes
+
+Different package
+non-Sub class--------->       no       no          no        yes
+
+
+1_Default:-
+       only within the same package
+
+Program_1:-
+
+package p1;
+class BankIndia
+{
+	void cash()
+	{
+		System.out.println("Hello Bank!");
+	}
+}
+
+output:Hello Bank!
+
+Program_2:-
+
+package p2;
+import p1.*;
+class BankSbi
+{
+	public static void main(String args[])
+	{
+		BankIndia customer = new BankIndia();
+
+		customer.cash();
+	}
+}
+
+output:Compile time error
+
+
+2_Private:-
+       accessible only within the class 
+       Any other class of the same package will not be able to access 
+
+program:-
+
+package p1;
+class A
+{
+private void display()
+	{
+		System.out.println("hellow world");
+	}
+}
+
+class B
+{
+public static void main(String args[])
+	{
+		A obj = new A();
+		obj.display();
+	}
+}
+
+output:   error: display() has private access in A
+          obj.display();
+
+3_Protected:-
+    Accessible within the same package or subclasses in different packages.
+
+
+
+Program_1:- 
+
+package p1; 
+public class A 
+{ 
+protected void display() 
+    { 
+        System.out.println("hellow world"); 
+    } 
+}
+
+
+Program_2:-
+
+
+package p2;
+import p1.*; 
+class B extends A
+{
+public static void main(String args[])
+{
+	B obj = new B();
+	obj.display();
+}
+	
+}
+
+output:hellow world
+
+
+4_Public:-
+   widest scope- accessible from everywhere
+
+Program_1:-
+
+package p1;
+public class A
+{
+public void display()
+	{
+		System.out.println("hellow world");
+	}
+}
+
+
+
+Program_2:-
+
+package p2;
+import p1.*;
+class B {
+	public static void main(String args[])
+	{
+		A obj = new A;
+		obj.display();
+	}
+}
+
+
+output:hellow world
+
+
+
+
+
+
+
+
+
+
+
+
+
