@@ -1,0 +1,14 @@
+Global variable:-
+   1.use all method reusable
+   2.global variables contain i-static - class specific
+                              ii-nonstatic - object specific(instance specific)
+   3.declare outside any method and inside class
+
+
+local variable :-
+    1.particular activity do after delete memory
+	2.runtime to create space
+	3.method and block inside
+	4.declare inside a method or block
+	
+	
