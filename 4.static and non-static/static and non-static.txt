@@ -1,0 +1,14 @@
+Static:-
+    1.class specific behaviour,information,values
+    2.only one copy of whole class will be maintain in memory
+    3.to access class name only object unnecessary
+    4.class load at the same time static information ,static method ,static variables also load
+
+Non-Static:-
+    1.object specific/instance specific
+	2.multiple copies for each object will be maintained in memory 
+       --->one copy for each object
+	
+	
+	
+	
