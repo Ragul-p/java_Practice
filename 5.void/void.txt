@@ -1,0 +1,16 @@
+
+Void:-
+     1.method doesn’t return anything
+     2.void means -->nothing,empty
+     3.return statement should be the last statement of any method definition
+	   4.return only one value
+   
+   
+Eg:-
+void bookReading()                   void work()
+{                                     { 
+outcome not visible                       outcome visible
+}                                     }
+
+
+
