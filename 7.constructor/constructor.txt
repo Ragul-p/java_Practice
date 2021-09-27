@@ -1,0 +1,56 @@
+Constrctor:-
+
+What is a Constructor in Java?
+     1.constructor is useful for initialize object specific value
+     2.called automatically when object got created
+     3.no return data type mentioned
+     4.the same name as the class name but have no explicit return type
+	   5.similar to java method
+	   6.one class contain no of constructor
+     7.sequence of order is important in constructor
+     
+     
+When is a Constructor Called?
+      1.A constructor is called when an object or an instance is created.
+	 
+   
+Rules For Constructors in Java
+      1.constructor name same as the class name.
+      2.constructor cannot be declared as final, static, synchronized or abstract.
+      3.It cannot have an explicit return type.
+      4.A constructor can have an access modifier to control the access.
+	  
+	  
+Two types of Constructor:-
+      1.Default Constructor
+      2.Parametrized Constructor
+	  
+    
+1.Default constructor:-	  
+	  1.A constructor with no arguments is called a default constructor.
+	  2.donot creat constructor - java create default constructor
+	  3.default constructor is invisible with zero argument
+	  
+    
+2.Parametrized constructor:-
+     1.A constructor which has arguments is called as a parametrized constructor. 
+	 
+	 
+	 
+	 
+	 
+	     Method                                      Constructor
+	 
+   1. Method name need not                    1.  Constructor name has 
+	be same as the class name                 to be same as the class name
+
+   2. Method has a return type                2. Constructor does not have                                                       
+                                              a return type 
+								             
+   3. You can call a method any               3. Constructor is called when 
+	number of times                           an object is created
+
+	
+
+   
+	 
