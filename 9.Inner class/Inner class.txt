@@ -1,0 +1,9 @@
+Inner Class(nested class):-
+    1.Inner class means one class which is a member of another class
+	  2.nested class is a class that is declared inside the class or interface
+    3.logically group classes  
+	  4.access all the members of the outer class, including private data
+	  5.to develop more readable and maintainable code 
+	
+	  6.inner class only static
+	  7.has a relation eg: college has department
