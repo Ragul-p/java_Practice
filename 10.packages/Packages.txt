@@ -1,0 +1,130 @@
+Packages
+    1.group of similar types of classes, interfaces and sub-packages
+  
+  
+sequence of Program:-
+   package--->import--->class>
+
+
+Two types:-	
+	1.built-in package  
+	2.user-defined package
+	
+	
+Advantages of java Packages:-	
+	1.Java package is used to categorize the classes and interfaces so that they can be easily maintained.
+	2.Java package provides access protection.
+	3.Java package removes naming collision.
+	
+	
+Keyword used - package
+             - import --->classes and interface of another package accessible to the current package.
+
+
+
+
+
+
+
+
+Three ways to access the package from outside the package.
+    1.import package.*;
+    2.import package.classname;
+    3.fully qualified name.
+
+
+
+1.import package.*;
+         package.*  ----->all the classes and interfaces of this package will be accessible but not subpackages.
+		
+Program:- 
+
+-----//save by A.java
+    package pack;  
+    public class A
+	{  
+      public void msg(){System.out.println("Hello");}  
+    }  
+
+
+-----//save by B.java  
+    package mypack;  
+    import pack.*;  
+      
+    class B{  
+      public static void main(String args[]){  
+       A obj = new A();  
+       obj.msg();  
+      }  
+    }  
+	
+	
+2.import package.classname;
+         package.classname-----> only access class of this package will be accessible.
+		 
+Program:-
+
+----->//save by A.java  
+      
+     package pack;  
+     public class A
+	 {  
+      public void msg(){System.out.println("Hello");}  
+     }  
+	
+------>/save by B.java  
+      package mypack;  
+      import pack.A;  
+  
+      class B{  
+      public static void main(String args[])
+	  {  
+      A obj = new A();  
+      obj.msg();  
+      }  
+      }  
+	  
+3.fully qualified name.	  
+	  1.fully qualified name then only declared class of this package will be accessible
+	  2. no need to import
+	  3.two packages have same class name e.g. java.util and java.sql packages contain Date class.
+	  
+Program:-
+--------- //save by A.java  
+    package pack;  
+    public class A
+	{  
+      public void msg(){System.out.println("Hello");}  
+    } 
+	
+--------//save by B.java  
+    package mypack;  
+    class B{  
+    public static void main(String args[])
+	{  
+    pack.A obj = new pack.A();//using fully qualified name  
+    obj.msg();  
+    }  
+    }
+	
+	
+	
+	
+	
+	
+Subpackage:-
+    1.Package inside the package is called the subpackage
+	
+Program:-
+
+  package com.javatpoint.core;  
+  class Simple
+  {  
+  public static void main(String args[])
+  {  
+   System.out.println("Hello subpackage");  
+  }  
+  } 
+	
+	
+         
