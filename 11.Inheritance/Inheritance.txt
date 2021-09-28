@@ -1,0 +1,49 @@
+Inheritance:-
+       keyword---extends
+    1.an object of one class(parent)  acting as an object of another class(child)
+    2.extends--->at the same time parent and child class object
+
+    only one class use after extend keyword
+
+
+superior-----super--parent--owner---base
+subordinate--sub----child---tenent--derived
+
+sub class:-
+  inherits the other class
+
+super class:-
+   subclass inherits the features
+
+
+
+
+types of Inheritance:-
+  1.single Inheritance
+  2.multileval Inheritance
+  3.hierarchical Inheritance
+  4.multiple Inheritance
+  5.hybrid Inheritance
+
+source:"https://www.tutorialspoint.com/java/images/types_of_inheritance.jpg"
+
+
+1.single Inheritance
+    single subclass extends from a single superclass
+
+
+ 2.multileval Inheritance
+    subclass extends from a superclass and then the same subclass acts as a superclass for another class
+
+ 3.hierarchical Inheritance
+    multiple subclasses extend from a single superclass.
+
+ 4.multiple Inheritance(java don't support)
+    single subclass extends from multiple superclasses
+ 
+5.hybrid Inheritance
+     combination of two or more types of inheritance
+
+
+
+-->6.cyclic inheritance(not support java)
