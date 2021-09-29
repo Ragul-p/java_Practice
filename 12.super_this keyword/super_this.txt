@@ -1,0 +1,15 @@
+Super:-
+   1.refers to current object of super class
+   2.refer immediate parent class instance variable and invoke method
+   3.super() --->super(parent) class constructor explicit call
+
+
+
+This:-
+   1.refers to current object of same class
+   2.refer current class instance variable and invoke method
+   3.this()  --->current(child) class constructor explicit call
+
+
+	  
+	  
