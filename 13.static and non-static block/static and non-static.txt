@@ -1,0 +1,35 @@
+Static block(static clause):-
+     1.static block executes when class loads the class
+     2.static block is execute before main() method
+     3.don't call---static block automatically call
+     4.class level
+	 
+	 
+	 
+	 
+non-static(instance initialization blocks):-
+     1.object level
+	 2.object create to extecute 
+	 3.many object---execute many time
+     4.which are used to initialize instance variables
+     5.object created --- before the execution of constructor
+
+
+JVM
+
+//first run
+   int no=5;            minimum
+   
+
+//second run
+   {
+   set of instruction;  minimum +
+   }
+   
+   
+//third run
+  add()
+  {
+  set of instruction;   minimum ++
+  
+  }
