@@ -1,0 +1,28 @@
+Abstraction:-
+          Keyword="abstract"
+
+    1.data hiding
+    2.only show necessary data and hide unwanted data  --- Abstraction is a process of hiding the implementation details and showing only functionality to the user.
+    3.it can have abstract method (without body) - regular method (with body)
+    4.method abstract (add keyword abstract)
+    5.only one method abstract entire class abstract
+    6.abstract class can't be instantianted(object-instance) object creation is not possible.
+    7.abstract class is incomplete class  to complete child class
+    8.It can have constructors and static methods also
+    9.It can have final methods which will force the subclass not to change the body of the method.
+  
+
+Real time Example:-
+
+  Example_1:-
+         1.sending SMS where you type the text and send the message. 
+         2.don't know the internal processing about the message delivery
+
+
+  Example_2:-
+          1.ride a bike  only know about how to ride bikes
+          2.but can not know about how it work-we do not know the internal functionality of a bike.
+  
+  Example_3:-
+          1.ATM machine like cash withdrawal, money transfer, retrieve mini-statement
+          2.but we can't know internal details about ATM
