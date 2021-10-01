@@ -1,0 +1,34 @@
+Covariant:-
+      
+     1.Covariant return type refers to return type of an overriding method
+     2.Covariant return type works only for non-primitive return types.
+     3.t is not mandatory for the methods in the superclass and subclass to have the same return type.
+     4.Java 5 onwards --->we can override a method by changing its return type
+
+Principle:-
+     Co-variant return type is based on Liskov substitution principle.
+ 
+
+
+
+
+ Invariant(மாறுபாட்டில்):-                                                    Covariant(இணை மாறுபாடு):-
+
+      Before JDK 5.0                                                            After JDK 5.0
+
+     1.not possible to override a method                                       1.It is possible to have different return
+       by changing the return type                                               type for a overriding method in child class
+
+
+     2.parent class method return type of the                                  2.but child’s return type should be
+       overriding method in child class has to                                   sub-type of parent’s return type
+       be exactly same as parent class
+
+
+     3.Overriding method was said to be invariant                              3.Overriding method becomes variant
+       with respect to return type                                                with respect to return type.
+     
+
+
+
+
