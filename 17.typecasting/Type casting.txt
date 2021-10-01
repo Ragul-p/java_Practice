@@ -1,0 +1,43 @@
+Type casting:-
+     Type-change data type
+     casting-changing shape
+
+what is type casting ?
+      Change value one datatype to another data type
+
+
+Two types:-
+
+    1.Widening Type Casting
+    2.Narrowing Type Casting
+
+
+1.Widening Type Casting(up casting):-
+     lower data type into a higher one 
+
+byte -> short -> char -> int -> long -> float -> double
+
+
+
+
+2.Narrowing Type Casting(down casting):-
+     higher data type into a lower one
+
+double -> float -> long -> int -> char -> short -> byte  
+
+
+
+
+
+
+Eg:
+   {
+    float petrol=99.68;
+    System.out.println((int)petrol);
+    }
+1.4--->below--->1
+1.6--->high --->2
+
+
+
+
