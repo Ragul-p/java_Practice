@@ -1,0 +1,19 @@
+Final:-
+    -->final keyword in java is used to restrict the user
+
+Java final keyword can be used in many context
+     1.variable 
+     2.method
+     3.class
+
+
+1.Variable:-
+     A final variable cannot be reassigned(It will be constant).
+      
+2.method:-
+     A final method cannot be overridden
+     
+3.class:-
+     A final class cannot be inherited
+    
+
