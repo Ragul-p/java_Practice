@@ -1,0 +1,41 @@
+Interface:-
+      Interface is not class.
+      Keyword:interface
+
+What is interface ?
+      1.set of rules / contract
+      2.An interface in Java is a blueprint of a class
+      3.It has static constants and abstract methods
+
+Why use Interface ?
+     1. It is used to achieve abstraction.
+     2. By interface, we can support the functionality of multiple inheritance.
+     3. It can be used to achieve loose coupling.
+
+
+   1.Interface variables are public, static and final by default
+   2.methods are public and abstract by default
+  
+
+   Printable.java--------->comoiler------------>Printable.class
+
+interface Printable                            interface Printale
+{                                              {
+int MIN=5;                                     public static final int MIN=5;
+void print();                                  public abstract void print();
+}                                              }
+
+
+
+
+The relationship between classes and interfaces
+      1.class extends class
+      2.class implements interface
+      3.inerface extends interface
+
+
+Multiple inheritance in Java by interface
+      1.class implements interface,interface
+      2.interface extends interface,interface
+
+
