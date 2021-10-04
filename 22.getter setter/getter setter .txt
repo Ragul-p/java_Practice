@@ -1,0 +1,34 @@
+getter(accessors)  and  setter(mutators):-
+    
+       1. Getters and setters are used to protect your data, particularly when creating classes.
+
+steps:-
+  1.declare class variables/attributes as private
+  2.provide public get and set methods to access and update the value of a private variable
+
+
+
+
+
+
+getter:-
+    1.get method returns(retrieving) the variable value.
+    2.getters start with the word "get"
+
+
+
+setter:-
+    1.the set method sets(updating) the  variable value.
+    2.setters start with the word "set"
+  
+ 
+   
+   
+
+
+  
+
+
+
+
+
