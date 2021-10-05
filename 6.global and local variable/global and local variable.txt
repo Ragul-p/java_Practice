@@ -1,4 +1,4 @@
-Global variable:-
+Global(Instance) variable:-
    1.use all method reusable
    2.global variables contain i-static - class specific
                               ii-nonstatic - object specific(instance specific)
