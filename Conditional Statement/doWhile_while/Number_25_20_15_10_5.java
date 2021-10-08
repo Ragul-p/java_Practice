@@ -10,7 +10,7 @@ public class Number_25_20_15_10_5 {
 
 	public void num2() 
 	{
-		int no = 25;
+	    int no = 25;
 	    do {
 	        System.out.println(no + "  ");
 	        no=no-5; // no=25, no=25-5=20, no=20-5=15, no=15-5=10, n0=10-5=5
