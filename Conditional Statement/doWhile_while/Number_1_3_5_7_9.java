@@ -15,8 +15,8 @@ public class Number_1_3_5_7_9
 	   {
 		  int no = 1;
 		  do {
-			  System.out.println(no +"  ");
-			  no=no+2; //1, 1+2=3, 3+2=5, 5+2=7, 7+2=9
+		      System.out.println(no +"  ");
+		      no=no+2; //1, 1+2=3, 3+2=5, 5+2=7, 7+2=9
 		     }while(no<=10);//1<10, 2<10, 3<10, 4<10, 5<10, 6<10, 7<10, 8<10, 9<10, 10<10
 	  }
 
