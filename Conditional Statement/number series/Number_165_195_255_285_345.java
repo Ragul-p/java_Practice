@@ -16,11 +16,11 @@ public class Number_165_195_255_285_345
 		int no=165;
 		while(no<=345)
 		{
-	System.out.println(no);
-	no=no+30;
-	if(no>345) {break;}
-	System.out.println(no);
-	no=no+60;
+	         System.out.println(no);
+	         no=no+30;
+	         if(no>345) {break;}
+	         System.out.println(no);
+	         no=no+60;
 		}
 		
 		
@@ -28,7 +28,8 @@ public class Number_165_195_255_285_345
 
 	public void num()
 	{
-		int no=165;
+		
+        int no=165;
 	System.out.println(no);
 	no=no+30;
 	System.out.println(no);
