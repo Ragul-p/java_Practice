@@ -1,6 +1,7 @@
 package numbers;
 
-public class Number_11_13_17_19_23 {
+public class Number_11_13_17_19_23 
+{
 
 	public static void main(String[] args)
 	{
@@ -9,8 +10,8 @@ public class Number_11_13_17_19_23 {
 		
 		Number_11_13_17_19_23 n = new Number_11_13_17_19_23();
 		n.num2();
-	   // n.num();
-		//n.num3();
+	     // n.num();
+	      //n.num3();
 	}
 
 	public void num3()
@@ -22,9 +23,7 @@ public class Number_11_13_17_19_23 {
 	            i=i+2;
 	            
 	            if (i>23) 
-	            {
-	                break;
-	            }
+	            { break; }
 	            
 	            System.out.print(i+" ");
 	            i=i+4;
@@ -40,7 +39,7 @@ public class Number_11_13_17_19_23 {
 	System.out.println(no);
 	no=no+no2;
 	System.out.println(no);
-    no=no+no2+2;
+        no=no+no2+2;
 	System.out.println(no);
 	no=no+no2;
 	System.out.println(no);
@@ -51,8 +50,9 @@ public class Number_11_13_17_19_23 {
 
 	public void num2()
 	{
-		 int no=11;
-	        while (no<=23) {
+		int no=11;
+	        while (no<=23)
+		{
 	            System.out.print(no+" ");
 	            no=no+2;
 	            System.out.print(no+" ");
