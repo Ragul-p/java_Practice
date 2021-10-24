@@ -31,7 +31,7 @@ public class Athlete
 		      {               // last loop
 		       low=time[i];  // time[4]   -->  16.5f
 		       index=i;     //  index=4   -->  sathish
-	        }	
+	              }	
 	     
 		}
 	      
@@ -53,18 +53,18 @@ public class Athlete
 		     float[] time= {25.2f,    23.6f,   28.4f,    19.2f,   16.5f,   30.3f};
 		       //index--->   0          1       2        3         4         5
 		     
-	  int a=0;
+	        int index=0;
 		for(int i=0;i<time.length;i++)
 		{	
 		      if(high<time[i])
 		      {                 // last loop
 		       high=time[i];   // time[5]   -->  30.3f
-		       a=i;           //  index=5   -->  dhanraj
-	        }  
+		       index=i;       //  index=5   -->  dhanraj
+	              }  
 		     
 		}
 		System.out.println("Last Rank : " +high);
-		System.out.println("Name      : " +players[a]);
+		System.out.println("Name      : " +players[index]);
 	}
 
   
