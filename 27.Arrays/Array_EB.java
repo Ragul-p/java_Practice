@@ -19,6 +19,7 @@ public class Array_EB
 		int total=0;
 		int greatest=0;
 		int n=1;
+		int low = Integer.MAX_VALUE;
 		
 		Scanner sc = new Scanner(System.in);
 		
@@ -38,6 +39,12 @@ public class Array_EB
 		  if(bill[i]>greatest)
 		  {
 			 greatest=bill[i]; 
+		  }
+		  
+		   
+		  if(bill[i]<low)
+		  {
+			low=bill[i];  
 		  }
 		  
 		  total=total+bill[i];
@@ -73,5 +80,6 @@ Enter 5 month amount
 Total amount : 1500
 Average amount : 300
 Highest amount : 430
+Lowest amount  : 150
 
 */
