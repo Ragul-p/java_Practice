@@ -69,3 +69,18 @@ public class Athlete
 
   
 }
+
+
+/*
+output :-
+
+...Athlete Rank list...
+
+First Rank : 16.5
+Name       : sathish
+
+Last Rank : 30.3
+Name      : dhanraj
+
+
+*/
