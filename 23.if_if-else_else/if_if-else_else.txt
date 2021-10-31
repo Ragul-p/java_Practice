@@ -1,0 +1,86 @@
+if condition:-
+
+       ->The Java if statement is used to test the condition. 
+       ->It checks boolean condition: true or false
+
+
+various types of if statement.
+   
+    1.if statement
+    2.if-else statement
+    3.if-else-if ladder
+    4.nested if statement
+
+
+
+
+
+1.if statement:-
+     if statement tests the condition. It executes the if block if condition is true.
+
+Eg:-
+   if(condition)
+    {  
+  
+    }  
+  
+
+
+
+2.if-else statement:-
+      if-else statement also tests the condition. It executes the if block if condition is true otherwise else block is executed.
+
+Eg:-
+
+    if(condition)
+      {  
+
+      }
+    else
+      {  
+
+      }  
+
+
+
+
+3.if-else-if-if ladder:-
+        if-else-if ladder statement executes one condition from multiple statements.
+
+Eg:-
+    
+    if(condition1)
+       {  
+
+       }
+    else if(condition2)
+      {  
+
+      }  
+    else if(condition3)
+     {  
+
+     }  
+     ...  
+     else
+     {  
+
+     }  
+
+
+
+
+4.nested if statement:-
+       The nested if statement represents the if block within another if block. Here, the inner if block condition executes only when outer if block condition is true.
+
+
+Eg:-
+   
+   if(condition)
+     {    
+      if(condition)
+        {  
+
+        }    
+     }  
+
