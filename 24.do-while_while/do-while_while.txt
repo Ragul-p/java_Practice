@@ -1,0 +1,52 @@
+1.do-while:-
+    1.do-while loop is used to iterate(மீண்டும் செய்யவும்) a part of the program repeatedly until the specified condition is true
+    2.do-while loop is also called Exit control loop
+    3.do-while loop is executed at least once because condition is checked after loop body
+
+Eg:-
+
+   do{    
+ 
+     }
+   while (condition);    
+
+
+
+Java Infinitive do-while Loop:-
+    1.If you pass true in the do-while loop
+    2.it will be infinitive do-while loop
+
+
+Eg:-
+
+   do{  
+ 
+     }
+   while(true);  
+
+
+
+
+
+2.while:-
+    1.while loop is used to iterate a part of the program repeatedly until the specified Boolean condition is true
+    2.Boolean condition becomes false, the loop automatically stops.
+
+Eg:-
+
+   while (condition)
+         {    
+
+         }  
+
+Java Infinitive While Loop:-
+     1.If you pass true in the while loop
+     2.it will be infinitive while loop
+
+Eg:-
+
+      while(true)
+           {  
+ 
+            }   
+
