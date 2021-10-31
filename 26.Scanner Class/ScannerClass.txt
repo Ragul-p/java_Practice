@@ -1,0 +1,14 @@
+Scanner Class:-
+
+Define:-
+    Scanner is one of the predefined class 
+    which is used for reading the data dynamically from the keyboard.
+
+
+     1.Scanner class ---> java.util package ---> java.util.Scanner class
+     2.Java provides various ways to read input from the keyboard, the java.util.Scanner class is one of them.
+     3.Scanner class extends Object class 
+     4.implements Iterator and Closeable interfaces.
+
+     1.Scanner class provides nextXXX() methods to return the type of value such as nextInt(), nextByte(), nextShort(), next(), nextLine(), nextDouble(), nextFloat(), nextBoolean(), etc.
+     2.To get a single character from the scanner, you can call next().charAt(0) method which returns a single character. 
