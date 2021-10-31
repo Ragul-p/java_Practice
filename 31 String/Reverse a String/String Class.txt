@@ -1,0 +1,22 @@
+String Class:-
+
+      1.Package:java.lang.String ---> don't import
+      2.String is a sequence of characters. 
+      3.objects of String are immutable which means a constant and cannot be changed once created.
+      
+      
+
+
+Two ways to create string:-
+
+    1.String literal
+
+         String s = “GeeksforGeeks”;
+
+    2.Using new keyword
+
+         String s = new String (“GeeksforGeeks”);
+
+
+
+
