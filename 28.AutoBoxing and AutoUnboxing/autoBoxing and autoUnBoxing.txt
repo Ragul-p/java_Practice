@@ -1,0 +1,50 @@
+Autoboxing and Unboxing:
+
+Autoboxing:-
+    1.The automatic conversion of primitive data types into its equivalent Wrapper type is known as auto boxing 
+    2.new feature of Java5.
+
+
+
+Eg:-
+   1.int to Integer, long to Long, double to Double
+       {
+        int a=50;  
+        Integer a2=new Integer(a);//Boxing  
+  
+        Integer a3=5;//Boxing
+        }
+
+
+
+
+
+
+Auto Unboxing:-
+    1.The automatic conversion  object of a  Wrapper types into its equivalent primitive data type is known as auto Unboxing 
+
+
+Eg:-
+   1.Integer to int, Long to long, Double to double 
+        {
+
+        Integer i=new Integer(50);  
+        int a=i;  
+         
+        }
+
+
+
+
+Advantage of Autoboxing and Unboxing:-
+       1.No need of conversion between primitives and Wrappers manually so less coding is required.
+
+
+
+
+Autoboxing and Unboxing with method overloading:-
+      some rules for method overloading with boxing:
+
+    1.Widening beats boxing
+    2.Widening beats varargs
+    3.Boxing beats varargs
