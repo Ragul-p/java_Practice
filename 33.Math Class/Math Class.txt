@@ -1,0 +1,11 @@
+Math Class:-
+
+    1.java.lang.Math
+    2.Java Math Class in Java contains certain methods to perform different 
+    3.numeric operations, for instance, exponential, square root, logarithmic, trigonometric functions.
+
+
+
+What is Java math class?
+
+   1.To perform different numeric calculations in Java, math class has provided several methods 
