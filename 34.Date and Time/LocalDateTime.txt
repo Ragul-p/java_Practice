@@ -1,0 +1,11 @@
+Java LocalDateTime class:-
+      1.Java LocalDateTime class is an immutable date-time object that represents a date-time, with the default format as yyyy-MM-dd-HH-mm-ss.zzz. 
+      2.inherits ---> object class, implements ---> ChronoLocalDateTime interface.
+      3.java.time.LocalDateTime 
+
+
+
+Java LocalDateTime class declaration:-
+
+    public final class LocalDateTime extends Object   
+    implements Temporal, TemporalAdjuster, ChronoLocalDateTime<LocalDate>, Serializable  
