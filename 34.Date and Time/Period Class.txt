@@ -1,0 +1,9 @@
+Java Period class:-
+     1.Java Period class is used to measures time in years, months and days. 
+     2.inherits ---> Object class, implements ---> ChronoPeriod interface.
+     3.java.time.Period
+
+
+
+Java Period class declaration:-
+    public final class Period extends Object implements ChronoPeriod, Serializable     
