@@ -1,0 +1,9 @@
+Java LocalTime Class:-
+      1.Java LocalTime class is an immutable class that represents time with a default format of hour-minute-second. 
+      2.inherits ---> Object class, implements --->Comparable interface.
+      3.java.time.LocalTime class
+
+Java LocalTime class declaration:-
+
+    public final class LocalTime extends Object   
+    implements Temporal, TemporalAdjuster, Comparable<LocalTime>, Serializable  
