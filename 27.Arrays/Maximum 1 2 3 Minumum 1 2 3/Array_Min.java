@@ -8,25 +8,25 @@ public class ArrayMax_Min
 		
 		int n[] = {9,8,7,6,5,4,3,2,1,0};
 		int max = Integer.MIN_VALUE;   // max=-2147483648
-	  int second=0,third=0;
+	        int second=0,third=0;
 		
 		for(int i=0;i<n.length;i++)
 		{
 			if(n[i]>max)
 			{
 			third=second;
-		  second=max;
+		        second=max;
 			max=n[i];	
 			}
 			
 			else if(n[i]>second) 
 			{
-				second=n[i];
+		         second=n[i];
 			}
 			
 			else if(n[i]>third) 
 			{
-				third=n[i];
+		         third=n[i];
 			}
 					
 		}
@@ -50,12 +50,12 @@ public class ArrayMax_Min
 			
 			else if(n[i]<sec) 
 			{
-				sec=n[i];
+			  sec=n[i];
 			}
 			
 			else if(n[i]<thi) 
 			{
-				third=n[i];
+			  third=n[i];
 			}
 			
 		}
