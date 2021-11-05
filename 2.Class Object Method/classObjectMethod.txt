@@ -15,7 +15,9 @@ class contain:
 
     -->state(fiels)=represents the data (value) of an object.
     -->behaviors(method)= represents the behavior (functionality) of an object such as deposit, withdraw, etc.
-	
+
+    -->states- name, breed
+    -->behaviors-eating(), barking()
 	
 3.Define method:-
     -->set of instruction
