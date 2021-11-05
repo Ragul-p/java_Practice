@@ -65,3 +65,18 @@ public class ArrayMax_Min
 	}
 
 }
+
+
+/*
+
+output :-
+
+Maximum     : 9
+second  Max : 8
+Third Max   : 7
+Minimum     : 0
+second Min  : 1
+Third  Min  : 2
+
+
+*/
