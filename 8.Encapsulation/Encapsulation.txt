@@ -12,8 +12,8 @@ access modifier      or      access specifier
 3.protected                  3.protected
 4.private                    4.private
                              5.static
-							 6.final
-							 7.abstract
+			     6.final
+			     7.abstract
 							 
 							 
 1.public:-
