@@ -37,7 +37,7 @@ initial P
 age 21
 age 22
 age 23
-age 24
+age 24 
 height 6.2
 height 6.2
 joinFamily false
