@@ -10,7 +10,7 @@ superior-----super--parent--owner---base
 subordinate--sub----child---tenent--derived 
 
 sub class:-
-  inherits the other class
+  inherits the other class 
 
 super class:-
    subclass inherits the features 
