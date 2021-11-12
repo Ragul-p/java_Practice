@@ -10,7 +10,7 @@ System.out.println("welcome to our shop");
 public Child(int price)
 {
 this();// current class cunstructor explicit call
-System.out.println("price " + price);	
+System.out.println("price " + price);	 
 }
 
 public static void main(String[] args)
