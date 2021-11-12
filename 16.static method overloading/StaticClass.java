@@ -10,7 +10,7 @@ m.main(1);
 m.main(1,2);
 m.main(1,2,3);
 }	 
-
+ 
 
 public static void main(int a)
 {
