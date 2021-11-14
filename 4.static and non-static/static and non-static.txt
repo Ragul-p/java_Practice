@@ -6,8 +6,8 @@ Static:-
 
 Non-Static:-
     1.object specific/instance specific
-	2.multiple copies for each object will be maintained in memory 
-       --->one copy for each object
+    2.multiple copies for each object will be maintained in memory 
+    --->one copy for each object
 	
 	
 	
