@@ -8,7 +8,7 @@ public static void main(String[] args)
 {
 
 RelativeDaughter rd = new RelativeDaughter();
-rd.doGardening();
+rd.doGardening(); 
 rd.receivePeople();
 }
  
