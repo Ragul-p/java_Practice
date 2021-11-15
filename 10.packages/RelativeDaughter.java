@@ -11,7 +11,7 @@ RelativeDaughter rd = new RelativeDaughter();
 rd.doGardening(); 
 rd.receivePeople();
 }
- 
+  
 }
 
 
