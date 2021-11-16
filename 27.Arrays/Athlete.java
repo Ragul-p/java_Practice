@@ -29,7 +29,7 @@ public class Athlete
 		{	   
 		      if(low>time[i])
 		      {               // last loop
-		       low=time[i];  // time[4]   -->  16.5f
+		       low=time[i];  // time[4]   -->  16.5f 
 		       index=i;     //  index=4   -->  sathish
 	              }	
 	     
