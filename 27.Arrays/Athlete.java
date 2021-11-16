@@ -66,7 +66,7 @@ public class Athlete
 		System.out.println("Last Rank : " +high);
 		System.out.println("Name      : " +players[index]);
 	}
-
+ 
   
 }
 
