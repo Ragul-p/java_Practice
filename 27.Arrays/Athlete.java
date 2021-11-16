@@ -4,7 +4,7 @@ public class Athlete
 {
 
 	public static void main(String[] args) 
-	{
+	{ 
 		 System.out.println("...Athlete Rank list...");
 		 System.out.println();
     
