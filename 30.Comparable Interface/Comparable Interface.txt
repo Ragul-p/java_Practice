@@ -11,9 +11,9 @@ compareTo(Object obj) method:-
   public int compareTo(Object obj): It is used to compare the current object with the specified object. 
 
 It returns,
-    positive integer, if the current object is greater than the specified object.
-    negative integer, if the current object is less than the specified object.
-    zero, if the current object is equal to the specified object.
+    1.positive integer, if the current object is greater than the specified object.
+    2.negative integer, if the current object is less than the specified object.
+    3.zero, if the current object is equal to the specified object.
 
 
 
