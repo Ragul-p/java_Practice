@@ -2,7 +2,7 @@ Comparable Interface:-
     1.Java Comparable interface is used to order the objects of the user-defined class
     2.java.lang package
     3.contains only one method named compareTo(Object) 
-    4. It provides a single sorting sequence only
+    4.It provides a single sorting sequence only
 
 
 
