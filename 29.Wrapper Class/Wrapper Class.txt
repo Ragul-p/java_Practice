@@ -4,9 +4,9 @@ Wrapper Class:-
      2.java.lang package java provides a separate class for each of the primitive data types namely Byte, Character, Double, Integer, Float, Long, Short.
 
 Use of Wrapper classes in Java:-
-       Java is an object-oriented programming language,
-       so we need to deal with objects many times like in Collections, Serialization, Synchronization, etc. 
-       Let us see the different scenarios, where we need to use the wrapper classes. 
+       1.Java is an object-oriented programming language,
+       2.so we need to deal with objects many times like in Collections, Serialization, Synchronization, etc. 
+       3.Let us see the different scenarios, where we need to use the wrapper classes. 
 
 
 Primitive Data Type 	Wrapper Class
