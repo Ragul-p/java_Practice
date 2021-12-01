@@ -1,0 +1,18 @@
+Object class:-
+     1.The Object class is the parent class of all the classes in java by default. 
+     2.It is the topmost class of java.
+
+
+package:java.lang.Object
+
+Syntax:public class Object
+
+
+
+method:-
+
+   1. int hashCode()    --->Returns a hash code value for the object.
+
+   2.boolean equals(Object obj)   --->Indicates whether some other object is "equal to" this one.
+ 
+   3.String	toString()     --->Returns a string representation of the object.
