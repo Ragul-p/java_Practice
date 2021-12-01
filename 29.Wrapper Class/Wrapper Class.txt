@@ -11,12 +11,12 @@ Use of Wrapper classes in Java:-
 
 Primitive Data Type 	Wrapper Class
 1.byte 	                1.Byte
-2.short 	            2.Short
-3.int                  	3.Integer
-4.long                	4.Long
-5.float                	5.Float
-6.double              	6.Double
-7.boolean 	            7.Boolean
+2.short 	                2.Short
+3.int                  	 3.Integer
+4.long                	 4.Long
+5.float                	 5.Float
+6.double              	 6.Double
+7.boolean 	           7.Boolean
 8.char 	                8.Character
 
 
