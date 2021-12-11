@@ -30,7 +30,7 @@ source:"https://www.tutorialspoint.com/java/images/types_of_inheritance.jpg"
 
 1.single Inheritance
     single subclass extends from a single superclass 
-
+ 
 
  2.multileval Inheritance
     subclass extends from a superclass and then the same subclass acts as a superclass for another class
