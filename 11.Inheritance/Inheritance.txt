@@ -43,7 +43,7 @@ source:"https://www.tutorialspoint.com/java/images/types_of_inheritance.jpg"
  
 5.hybrid Inheritance
      combination of two or more types of inheritance
-
+ 
 
 
 -->6.cyclic inheritance(not support java)
