@@ -22,7 +22,7 @@ types of Inheritance:-
   1.single Inheritance
   2.multileval Inheritance
   3.hierarchical Inheritance
-  4.multiple Inheritance
+  4.multiple Inheritance 
   5.hybrid Inheritance
 
 source:"https://www.tutorialspoint.com/java/images/types_of_inheritance.jpg"
