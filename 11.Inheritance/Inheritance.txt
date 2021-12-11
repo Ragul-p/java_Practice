@@ -28,7 +28,7 @@ types of Inheritance:-
 source:"https://www.tutorialspoint.com/java/images/types_of_inheritance.jpg"
 
 
-1.single Inheritance
+1.single Inheritance 
     single subclass extends from a single superclass 
  
 
