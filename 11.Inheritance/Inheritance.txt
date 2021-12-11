@@ -4,7 +4,7 @@ Inheritance:-
     2.extends--->at the same time parent and child class object
 
     only one class use after extend keyword
-
+  
 
 superior-----super--parent--owner---base
 subordinate--sub----child---tenent--derived 
