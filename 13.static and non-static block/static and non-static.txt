@@ -14,7 +14,7 @@ non-static(instance initialization blocks):-
      4.which are used to initialize instance variables
      5.object created --- before the execution of constructor
 
-
+ 
 JVM
 
 //first run
