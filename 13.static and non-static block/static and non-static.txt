@@ -5,7 +5,7 @@ Static block(static clause):-
      4.class level
 	 
 	  
-	 
+	  
 	 
 non-static(instance initialization blocks):-
      1.object level
