@@ -3,7 +3,7 @@ Static block(static clause):-
      2.static block is execute before main() method
      3.don't call---static block automatically call
      4.class level
-	 
+	  
 	  
 	  
 	 
