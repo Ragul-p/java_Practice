@@ -4,7 +4,7 @@ Static block(static clause):-
      3.don't call---static block automatically call
      4.class level
 	 
-	 
+	  
 	 
 	 
 non-static(instance initialization blocks):-
