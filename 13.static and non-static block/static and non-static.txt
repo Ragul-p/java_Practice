@@ -16,7 +16,7 @@ non-static(instance initialization blocks):-
 
  
 JVM
-
+ 
 //first run
    int no=5;            minimum
    
