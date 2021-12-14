@@ -3,7 +3,7 @@ Binding:-
   
 two types:-
     1.Dynamic binding
-	2.static binding(Early binding)
+    2.static binding(Early binding)
 
 
 
