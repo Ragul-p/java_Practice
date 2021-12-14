@@ -13,7 +13,7 @@ Dynamic binding(late binding):-
     1.parent class object child class memory refer
     2.child class-only override method are acceptable not variable 
     3.runtime
-	4.compiler is not able to resolve at compile time  by compiler Dynamic or late Binding
+    4.compiler is not able to resolve at compile time  by compiler Dynamic or late Binding
    
     Eg:Overriding
 	
@@ -23,7 +23,7 @@ Dynamic binding(late binding):-
 
 Static binding(Early binding):-
     1.compile time
-	2.resolved at compile time by compiler is known as static or early binding
+    2.resolved at compile time by compiler is known as static or early binding
  
     Eg:overloaded
 	
