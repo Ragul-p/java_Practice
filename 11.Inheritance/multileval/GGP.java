@@ -8,8 +8,3 @@ System.out.println("smile");
   
  
   
- 
- 
-  
- 
- 
